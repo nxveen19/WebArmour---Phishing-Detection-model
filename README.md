@@ -1,5 +1,7 @@
 # Phishing URL Detection 
-![Screenshot (61)](https://github.com/nxveen19/WebArmour---Phishing-Detection-model/assets/125440125/993ec826-dc41-4fed-98d4-2a3ff727eab3)
+
+![Screenshot (62)](https://github.com/nxveen19/WebArmour---Phishing-Detection-model/assets/125440125/df85a847-8f53-4af5-8ef6-759046250e23)
+
 
 ## Phishing URL Detection
 Introduction
