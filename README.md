@@ -1,6 +1,5 @@
 # Phishing URL Detection 
-![image](https://app.gemoo.com/share/image-annotation/657656297930956800?codeId=DGYwd3EJjza7O&origin=imageurlgenerator&card=657656295548600320)
-
+![Screenshot (61)](https://github.com/nxveen19/WebArmour---Phishing-Detection-model/assets/125440125/993ec826-dc41-4fed-98d4-2a3ff727eab3)
 
 ## Phishing URL Detection
 Introduction
